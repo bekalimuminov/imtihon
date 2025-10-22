@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1af81a9-f09a-4d59-9838-f728bcf74e6b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/img/Language.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/box1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/box2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/box3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/box4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/box5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/box6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/box7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/box8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/chevron.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/like2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/like3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/moc10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/moc11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/moc12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/moc13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/moc14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/moc15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/moc16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/moc17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/moc18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/moc19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/moc2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/moc21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/moc3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/moc4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/moc5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/moc6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/moc7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/moc8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mooc20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/red_like.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/woman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/yazik.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/imtihon.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="32pGOZktTdsXyV4saMmcjZDQDdy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/imtihon/img&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\imtihon\img" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.26927.40" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1af81a9-f09a-4d59-9838-f728bcf74e6b" name="Changes" comment="" />
+      <created>1758110068650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758110068650</updated>
+      <workItem from="1758110069933" duration="325000" />
+      <workItem from="1758195153929" duration="1884000" />
+      <workItem from="1759234272345" duration="4000" />
+      <workItem from="1759243860288" duration="669000" />
+      <workItem from="1759254292624" duration="413000" />
+      <workItem from="1759294162123" duration="7000" />
+      <workItem from="1760629728727" duration="8113000" />
+      <workItem from="1760707992117" duration="4237000" />
+      <workItem from="1760806636120" duration="1177000" />
+      <workItem from="1760809182006" duration="965000" />
+      <workItem from="1760893390319" duration="175000" />
+      <workItem from="1760976100539" duration="2356000" />
+      <workItem from="1761055089535" duration="15063000" />
+      <workItem from="1761099025043" duration="4979000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
