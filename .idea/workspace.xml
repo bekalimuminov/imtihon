@@ -4,56 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1af81a9-f09a-4d59-9838-f728bcf74e6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/img/Language.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/box1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/box2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/box3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/box4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/box5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/box6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/box7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/box8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/chevron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/exit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/like.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/like2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/like3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lump.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/moc10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/moc11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/moc12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/moc13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/moc14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/moc15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/moc16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/moc17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/moc18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/moc19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/moc2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/moc21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/moc3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/moc4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/moc5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/moc6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/moc7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/moc8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mooc20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/red_like.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/woman.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/yazik.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/imtihon.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="c1af81a9-f09a-4d59-9838-f728bcf74e6b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +68,7 @@
       <workItem from="1760893390319" duration="175000" />
       <workItem from="1760976100539" duration="2356000" />
       <workItem from="1761055089535" duration="15063000" />
-      <workItem from="1761099025043" duration="4979000" />
+      <workItem from="1761099025043" duration="5279000" />
     </task>
     <servers />
   </component>
